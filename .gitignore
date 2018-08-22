@@ -25,6 +25,5 @@
 /.nb-gradle/
 /.idea/
 /mvnw.cmd
-/springboot-dubbo-producer.iml
 /.mvn/
 /mvnw
